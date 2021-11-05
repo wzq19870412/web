@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wzq19870412.github.io/web</id>
     <title>资源资讯分享君</title>
-    <updated>2021-11-05T04:46:37.592Z</updated>
+    <updated>2021-11-05T04:52:24.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wzq19870412.github.io/web"/>
     <link rel="self" href="https://wzq19870412.github.io/web/atom.xml"/>
@@ -12,13 +12,13 @@
     <rights>All rights reserved 2021, 资源资讯分享君</rights>
     <entry>
         <title type="html"><![CDATA[分享八款office卸载工具 Office全套卸载工具 Office 彻底卸载清理工具，有效解决各种安装错误]]></title>
-        <id>https://wzq19870412.github.io/web/post/hello-gridea/</id>
-        <link href="https://wzq19870412.github.io/web/post/hello-gridea/">
+        <id>https://wzq19870412.github.io/web/post/1/</id>
+        <link href="https://wzq19870412.github.io/web/post/1/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>安装office的时候，经常会出现各种错误，大部分都是office卸载不完全导致的二次安装问题！</p>
-<p>【21620期】分享八款office卸载工具 Office全套卸载工具 Office 彻底卸载清理工具，有效解决各种安装错误！</p>
-<p>本期，分享君给大家推荐几个office卸载工具！</p>
+<p>【21620期】分享八款office卸载工具 Office全套卸载工具 Office 彻底卸载清理工具，有效解决各种安装错误！<br>
+本期，分享君给大家推荐几个office卸载工具！</p>
 <p>SetupProd_OffScrub，这是微软自己开发的卸载工具，支持卸载所有版本的微软Office，卸载彻底，但需要联网，耗时长，只支持Windows8及以上系统。</p>
 <p>OfficeScrubber，国外大神开发的卸载神器，支持Office 2016 MSI和Office(2021、2019、2016、365)所有版本的卸载。密钥和证书可以单独清理，office2013及以下版本不受支持。适用于所有Windows7及以上系统！</p>
 <p>Office Uninstall，第三方开发的Office卸载工具支持office2010及更高版本，适用于所有Windows系统！</p>
