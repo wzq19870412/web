@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wzq19870412.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-11-05T03:34:48.542Z</updated>
+    <title>资源资讯分享君</title>
+    <updated>2021-11-05T03:40:06.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wzq19870412.github.io"/>
     <link rel="self" href="https://wzq19870412.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>资源资讯分享君的github静态网站</subtitle>
     <logo>https://wzq19870412.github.io/images/avatar.png</logo>
     <icon>https://wzq19870412.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 资源资讯分享君</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://wzq19870412.github.io/post/hello-gridea/</id>
