@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wzq19870412.github.io/web</id>
     <title>资源资讯分享君</title>
-    <updated>2021-11-05T04:53:23.034Z</updated>
+    <updated>2021-11-05T04:57:14.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wzq19870412.github.io/web"/>
     <link rel="self" href="https://wzq19870412.github.io/web/atom.xml"/>
@@ -15,18 +15,18 @@
         <id>https://wzq19870412.github.io/web/post/1/</id>
         <link href="https://wzq19870412.github.io/web/post/1/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
+        <updated>2021-11-05T04:00:00.000Z</updated>
         <content type="html"><![CDATA[<p>安装office的时候，经常会出现各种错误，大部分都是office卸载不完全导致的二次安装问题！</p>
 <p>【21620期】分享八款office卸载工具 Office全套卸载工具 Office 彻底卸载清理工具，有效解决各种安装错误！<br>
 本期，分享君给大家推荐几个office卸载工具！</p>
-<p>SetupProd_OffScrub，这是微软自己开发的卸载工具，支持卸载所有版本的微软Office，卸载彻底，但需要联网，耗时长，只支持Windows8及以上系统。</p>
-<p>OfficeScrubber，国外大神开发的卸载神器，支持Office 2016 MSI和Office(2021、2019、2016、365)所有版本的卸载。密钥和证书可以单独清理，office2013及以下版本不受支持。适用于所有Windows7及以上系统！</p>
-<p>Office Uninstall，第三方开发的Office卸载工具支持office2010及更高版本，适用于所有Windows系统！</p>
-<p>O15CTRRemove.diagcab，微软多年前发布了Office卸载软件，主要是为Office 2013设计的。虽然可以卸载2016~2021版本，但可能不能很好地支持最新版本的Office，适用于Windows7及以上系统！</p>
-<p>office2010/2007/2003卸载工具，微软发布，office2010/2007/2003专门的卸载工具，卸载效果不错，但不支持Windows10及以上系统，适用于Windows7及以下的所有系统。</p>
-<p>office卸载清理残留工具，这个工具其实是上面4和5的集合，也就是把这些专业的卸载工具集成在一起。适用于Windows7及以下系统和office2016及以下版本。</p>
-<p>Windows_Installer_CleanUp_Utility，微软提供的Windows Installer清理实用程序可以删除Windows Installer安装的任何程序（注意：使用时注意不要误删其他东西）。适用于Windows7及以下系统和office2016及以下版本。</p>
-<p>Office Tool Plus(OTP)，这个工具专门介绍过，在Windows10及以上系统中绝对是妥妥的神器。适用于Windows7及以上系统和所有Office版本！</p>
+<p>1.SetupProd_OffScrub，这是微软自己开发的卸载工具，支持卸载所有版本的微软Office，卸载彻底，但需要联网，耗时长，只支持Windows8及以上系统。</p>
+<p>2.OfficeScrubber，国外大神开发的卸载神器，支持Office 2016 MSI和Office(2021、2019、2016、365)所有版本的卸载。密钥和证书可以单独清理，office2013及以下版本不受支持。适用于所有Windows7及以上系统！</p>
+<p>3.Office Uninstall，第三方开发的Office卸载工具支持office2010及更高版本，适用于所有Windows系统！</p>
+<p>4.O15CTRRemove.diagcab，微软多年前发布了Office卸载软件，主要是为Office 2013设计的。虽然可以卸载2016~2021版本，但可能不能很好地支持最新版本的Office，适用于Windows7及以上系统！</p>
+<p>5.office2010/2007/2003卸载工具，微软发布，office2010/2007/2003专门的卸载工具，卸载效果不错，但不支持Windows10及以上系统，适用于Windows7及以下的所有系统。</p>
+<p>6.office卸载清理残留工具，这个工具其实是上面4和5的集合，也就是把这些专业的卸载工具集成在一起。适用于Windows7及以下系统和office2016及以下版本。</p>
+<p>7.Windows_Installer_CleanUp_Utility，微软提供的Windows Installer清理实用程序可以删除Windows Installer安装的任何程序（注意：使用时注意不要误删其他东西）。适用于Windows7及以下系统和office2016及以下版本。</p>
+<p>8.Office Tool Plus(OTP)，这个工具专门介绍过，在Windows10及以上系统中绝对是妥妥的神器。适用于Windows7及以上系统和所有Office版本！</p>
 <p>公众号:资源资讯分享君</p>
 <p>关注公众号</p>
 <p>并发送：21620  获取资源</p>
