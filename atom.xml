@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wzq19870412.github.io/web</id>
     <title>资源资讯分享君</title>
-    <updated>2021-11-05T04:29:46.522Z</updated>
+    <updated>2021-11-05T04:34:40.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wzq19870412.github.io/web"/>
     <link rel="self" href="https://wzq19870412.github.io/web/atom.xml"/>
-    <subtitle>资源资讯分享君的github静态网站</subtitle>
+    <subtitle>资源资讯分享君的静态网站</subtitle>
     <logo>https://wzq19870412.github.io/web/images/avatar.png</logo>
     <icon>https://wzq19870412.github.io/web/favicon.ico</icon>
     <rights>All rights reserved 2021, 资源资讯分享君</rights>
